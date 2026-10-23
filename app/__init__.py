@@ -1,0 +1,2 @@
+"""Agentic vision controller package."""
+

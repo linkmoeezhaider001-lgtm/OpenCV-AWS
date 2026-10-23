@@ -1,0 +1,25 @@
+{
+  "status": "SUCCESS",
+  "frame_dimensions": [640, 480],
+  "defect_detected": true,
+  "confidence_score": 0.65,
+  "total_defects": 1,
+  "defects": [
+    {
+      "id": 1,
+      "area": 450.0,
+      "bounding_box": [310, 220, 45, 45],
+      "centroid": [332, 242],
+      "aspect_ratio": 1.0
+    }
+  ],
+  "active_config": {
+    "blur_kernel": 5,
+    "canny_threshold1": 50,
+    "canny_threshold2": 150,
+    "min_defect_area": 300.0,
+    "roi_crop": null,
+    "apply_clahe": false
+  }
+}
+
